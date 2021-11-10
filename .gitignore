@@ -1,0 +1,6 @@
+**/.vscode
+**/.editor
+
+**/node_modules
+
+**/env
